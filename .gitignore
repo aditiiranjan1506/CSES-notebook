@@ -1,0 +1,10 @@
+.vscode/
+.DS_Store
+*.dSYM/
+
+# compiled C++ executables
+Introductory Problems/*
+!Introductory Problems/*.cpp
+
+/boilerplate
+/try
